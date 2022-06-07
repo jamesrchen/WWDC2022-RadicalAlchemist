@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "Plugin icon - 1RALogo(2).png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "Plugin icon - 1RALogo.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "Plugin icon - 1RALogo(1).png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
